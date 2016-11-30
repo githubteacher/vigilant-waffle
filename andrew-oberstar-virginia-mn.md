@@ -4,7 +4,7 @@
 
 
 
-### Places the local like
+### Places the locals like
 
 What places?
 
