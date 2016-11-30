@@ -10,6 +10,7 @@
 
 * McMorrow Field
 * Kaposia Park
+* Wakota Arena
 
 ### Places tourists like
 
