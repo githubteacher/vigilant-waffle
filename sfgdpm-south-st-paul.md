@@ -16,3 +16,4 @@
 
 * Dakota County History Museum
 * Old Stockyard Exchange Building
+* NOT South St. Paul
