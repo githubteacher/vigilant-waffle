@@ -6,12 +6,12 @@
 * Madigans
 * The gas station
 
-### Places the locals like
+### Places the Locals Like
 
 * The school
 * The VFW
 
-### Places tourists like
+### Places Tourists Like
 
 * Tourists?
 
