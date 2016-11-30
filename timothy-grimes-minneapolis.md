@@ -5,17 +5,17 @@
 
 ### places the locals like
 - Twins game
-
-
-
-adding some new lines so that I can test out my link.
-
-
-
-
-
-
+a
+a
+a
+adding some dummy lines so that I can test out my link.
+a
+a
+a
+a
+a
+a
 done...
-
+a
 ### places tourists like
 - [see above](### places the locals like)
