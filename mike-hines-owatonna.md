@@ -1,0 +1,6 @@
+# Owatonna, MN
+
+### Restaurants
+
+
+### Places
