@@ -2,7 +2,12 @@
 
 ### Resturants
 * Channel Inn
-### Places the locals like
+* El Agave Mexican
 
 ### Places the tourists like
 * Cedar Creek Park
+
+### Things to Do
+* Ice Fishing on Lakes
+* Boating
+* Aquatic Park
