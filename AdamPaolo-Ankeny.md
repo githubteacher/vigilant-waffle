@@ -10,3 +10,5 @@ Pretending like they're in Star Trek
 Hills
 Trees
 Buildings
+Lakes
+Groves
