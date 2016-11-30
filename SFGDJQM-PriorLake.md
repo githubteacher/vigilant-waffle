@@ -13,3 +13,9 @@
 - Spring Lake
 - Prior Lake
 - Cleary Lake
+
+### Golf Courses
+- Cleary Lake
+- The Legends
+- The Meadows
+- The Wilds
