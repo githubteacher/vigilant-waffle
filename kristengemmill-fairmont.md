@@ -11,3 +11,8 @@
 * Ice Fishing on Lakes
 * Boating
 * Aquatic Park
+* Golf
+
+### Events to Attend
+* Glows Parade (Winter)
+* Interlocken Heritage Days (Summer)
