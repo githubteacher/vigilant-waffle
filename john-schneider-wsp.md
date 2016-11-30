@@ -3,7 +3,16 @@
 ### Restaurants
 
 ### Fast Food
+:hamburger: and :pizza:
+
 Burger Time
+
+Burger King
+
+Papa John's pizza
+
+Little Caesar's pizza
+
 
 ### One of a kind
 5 - 8 Club
