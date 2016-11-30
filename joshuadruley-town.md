@@ -1,10 +1,10 @@
 # Town
 
 ### Restaurants
-- McD's
+- McD's (tm)
 
 ### Places the locals like
 - Key's Cafe
 
 ### Places tourists like
-- Mall of America
+- Mall of America (R)
