@@ -7,4 +7,4 @@
 - Twins game
 
 ### places tourists like
-- [see above](### places the locals like)
+- [see above](#places-the-locals-like)
