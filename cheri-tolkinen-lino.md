@@ -2,6 +2,8 @@
 
 ### Places the locals like
 #### Centennial Arena
+#### Target
+
 
 ### Restaurants
 #### Applebees
