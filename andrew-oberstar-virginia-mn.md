@@ -2,7 +2,7 @@
 
 ### Restaurants
 
-
+- Village Inn
 
 ### Places the locals like
 
