@@ -2,8 +2,8 @@
 
 ### Weather
 
-- Hot in the summer
-- Cold in the winter
+- Hot in the summer :snowflake:
+- Cold in the winter :sun_with_face:
 
 ### Restaurants
 
