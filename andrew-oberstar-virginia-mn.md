@@ -3,6 +3,7 @@
 ### Restaurants
 
 - Village Inn
+- Other things
 
 ### Places the locals like
 
