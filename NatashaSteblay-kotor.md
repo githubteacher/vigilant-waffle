@@ -1,4 +1,5 @@
 #Kotor, Montenegro
+A cool place to visit, if you like mountains, sea, and history.
 
 ###Restaurants
 Pizza place
