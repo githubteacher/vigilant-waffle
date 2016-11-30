@@ -11,6 +11,8 @@
 * McMorrow Field
 * Kaposia Park
 * Wakota Arena
+* Siedl's Pond
+* Lorraine Park
 
 ### Places tourists like
 
