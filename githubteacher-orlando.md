@@ -5,7 +5,8 @@
 - Bikurri Sushi has some great :fried_shrimp:
 
 ### Places the locals like
-- Beaches
+- Cocoa Beach
+- Paradise Beach
 - Cape Canaveral
 
 ### Places tourists like
