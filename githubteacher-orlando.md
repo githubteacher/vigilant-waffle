@@ -13,3 +13,4 @@
 - Universal Studios
 - Disney World
 - Gatorland
+- LegoLand
