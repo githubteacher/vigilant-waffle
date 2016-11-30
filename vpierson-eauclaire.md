@@ -2,15 +2,15 @@
 
 ### Restaurants
 - Mona Lisa's :pizza:
-- Tokyo's :tokyo_tower:
-- Egg Roll Plus 
-- Cancun
-- Acoustic Cafe
+- Tokyo's :bento:
+- Egg Roll Plus :ramen:
+- Cancun :taco:
+- Acoustic :guitar:
 
 ### Shopping
-- Downtown shops
+- Downtown shops :shopping:
 - Oakwood Mall
 
 ### Universities/Colleges
-- UWEC
+- UWEC  :school:
 - CVTC
