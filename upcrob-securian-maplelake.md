@@ -17,4 +17,5 @@
 
 ### Miscellaneous
 
-There's ~~some~~ no debate as to whether lakes are better than groves...
+There's ~~some~~ no debate as to whether groves are better than lakes...
+Sometimes you get a conflict.
