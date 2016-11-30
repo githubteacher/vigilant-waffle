@@ -9,3 +9,4 @@ Stara Konoba
 
 ###Places tourists like
 Old town square
+San Giovanni
