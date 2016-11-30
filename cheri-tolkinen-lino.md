@@ -6,3 +6,4 @@
 ### Restaurants
 #### Applebees
 #### Matthews
+#### No Italian only restaurants. Go to Roseville
