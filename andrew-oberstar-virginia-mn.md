@@ -3,7 +3,7 @@
 ### Restaurants
 
 - Village Inn
-- Other things
+- Arbys
 
 ### Places the locals like
 
