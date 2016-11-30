@@ -7,6 +7,10 @@
 
 ### Restaurants
 
+- Old Chicago
+- Ole Piper 
+	- Actually just south of Apple Valley in Rosemount
+
 ### Activities
 
 ### Stores
