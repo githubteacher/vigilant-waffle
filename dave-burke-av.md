@@ -15,3 +15,6 @@
 
 ### Stores
 
+- Ace Hardware
+- Valley Bike & Ski
+
