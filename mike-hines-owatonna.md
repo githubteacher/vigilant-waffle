@@ -3,5 +3,5 @@
 ### Restaurants
 Pizza
 
-### Places
+## Place
 Parks
