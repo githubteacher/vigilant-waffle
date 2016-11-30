@@ -8,3 +8,6 @@
 * Hockey rink
 * Stub's
 * Floyd's
+
+### Nearby cities
+* Grand Forks, ND
